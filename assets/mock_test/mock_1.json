@@ -1,0 +1,51 @@
+[
+    
+    {
+    "q":"আমার নাম কী?",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":2,
+    "subject":"bengali"
+   },
+
+   {
+    "q":"what is your name?i am Walter White Yo!I am the one who knocks.",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "subject":"english"
+   },
+
+   {
+    "q":"what is his name?",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "subject":"math"
+   },
+
+   {
+    "q":"what is earth?আমার নাম কী? muhammad saif ali molla basirhat town high school what is your name?i am Walter White Yo!Sunil gangopadhyay ashakti bandopadhyay lee child stepfen king robert downey junior rabindranath tagore micheal madhusudan roy,satyajit roy bibhutibhusan bandopadhyay I am the one who knocks.",
+    "op":[
+    "saif what is earth?আমার নাম কী? muhammad saif ali moll ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "subject":"math"
+   },
+
+   {
+    "q":"what is fire?",
+    "op":[
+    "state ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "subject":"math"
+   }
+
+
+
+
+]

@@ -1,0 +1,31 @@
+[
+    
+    {
+    "q":"আমার নাম কী? muhammad saif ali molla basirhat town high school what is your name?i am Walter White Yo!Sunil gangopadhyay ashakti bandopadhyay lee child stepfen king robert downey junior rabindranath tagore micheal madhusudan roy,satyajit roy bibhutibhusan bandopadhyay I am the one who knocks.",
+    "op":[
+    " muhammad saif ali molla basirhat town high school  ","kaif","asif","syed"
+    ],
+    "ans":2,
+    "category":"a"
+   },
+
+   {
+    "q":"what is your name?i am Walter White Yo!Sunil gangopadhyay ashakti bandopadhyay lee child stepfen king robert downey junior rabindranath tagore micheal madhusudan roy,satyajit roy bibhutibhusan bandopadhyay I am the one who knocks.",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "category":"b"
+   },
+
+   {
+    "q":"\\$\\frac{2 \\times5}{5}\\$",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "category":"a"
+   }
+
+
+]

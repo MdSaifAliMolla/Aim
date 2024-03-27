@@ -1,0 +1,133 @@
+[
+    {   "q":"Plural : Corpus",
+        "op":["corpusses","corpora","corpos","corpori"],
+        "ans":1,
+        "category":"numbers and gender"   },
+    {
+        "q":"plural : appendix ",
+        "op":["appendixes","appendices","appendiexes","appendieces"],
+        "ans":1,
+        "category":"numbers and gender"
+    },
+    {
+        "q":"plural : cactus",
+        "op":["cactuss","cacti","cactu","cactis"],
+        "ans":1,
+        "category":"numbers and gender"
+    },
+    {
+        "q":"gender change - protector",
+        "op":["protecti","protectoress","proctectress","protectum"],
+        "ans":2,
+        "category":"numbers and gender"
+    },
+    {
+        "q":"gender change -gander",
+        "op":["goose","heifer","gandress","duchess"],
+        "ans":0,
+        "category":"numbers and gender"
+    },
+    {
+        "q":"colt",
+        "op":["doe","sow","filly","ewe"],
+        "ans":2,
+        "category":"numbers and gender"
+    },
+    {
+        "q":"synonyms - conscientious",
+        "op":["scrupulous","rebellious","mischievous","ridiculous"],
+        "ans":0,
+        "category":"synonyms and antonyms"
+    },
+    {
+        "q":"synonyms - abhor",
+        "op":["simplicity","boast","abstract","detest"],
+        "ans":3,
+        "category":"synonyms and antonyms"
+    },
+    {
+        "q":"antonyms - sporadic",
+        "op":["continuous","interval","decent","repel"],
+        "ans":0,
+        "category":"synonyms and antonyms"
+    },
+    {
+        "q":"antonyms - malice",
+        "op":["intention","benevolence","spite","morose"],
+        "ans":1,
+        "category":"synonyms and antonyms"
+    },
+    {
+        "q":"Arrange as they appear in dictionary-i.receptacle,ii.reception,iii.receptionist,iv.receptive",
+        "op":["i, ii, iii, iv","ii, i, iv, iii","iii, iv, i, ii","iv, iii, i, ii"],
+        "ans":0,
+        "category":"english pedagogy"
+    },
+    {
+        "q":"Arrange as they appear in dictionary-i.precipitate,ii.precedent,iii.precision,iv.precious",
+        "op":["iii ,i ,iv ,ii","ii ,iv ,i , iii","i ,iii ,ii ,iv","ii ,i , iv, iii"],
+        "ans":1,
+        "category":"english pedagogy"
+    },
+    {
+        "q":"if I _____ a bird,I would fly.",
+        "op":["am","was","were","have been"],
+        "ans":2,
+        "category":"parts of speech"
+    },
+    {
+        "q":"He found the book, he ______",
+        "op":["has lost","was lost","hac lost","would have lost"],
+        "ans":2,
+        "category":"parts of speech"
+    },
+    {
+        "q":"Hardly had the girl ______ writing,when teacher collected her ansewr script.",
+        "op":["had finished","have finished","finished","finishes"],
+        "ans":2,
+        "category":"parts of speech"
+    },
+    {
+        "q":"mark the correct spelling-",
+        "op":["assimilate","asimillate","assimillate","asimilate"],
+        "ans":0,
+        "category":"spelling"
+    }, 
+    {
+        "q":"mark the correct spelling-",
+        "op":["apalling","appaling","appalling","appaling"],
+        "ans":2,
+        "category":"spelling"
+    },
+    {
+        "q":"mark the correct spelling-",
+        "op":["rejuvinate","rejuvenate","rijuvinate","rejuvenete"],
+        "ans":1,
+        "category":"spelling"
+    },
+    {
+        "q":"mark error -",
+        "op":["Samir has to","trudge over the","steep mountain path","no error"],
+        "ans":1,
+        "category":"parts of speech"
+    },
+    {
+        "q":"mark error -",
+        "op":["Treasure Island is","one of the best pirate stories","that ever written","no error"],
+        "ans":2,
+        "category":"parts of speech"
+    },
+    {
+        "q":"An application was writtten to the officer in pursuance ____ the instructions given.",
+        "op":["by","upon","for","of"],
+        "ans":3,
+        "category":"articles and prepositions"
+    },
+    {
+        "q":"The distance of the school ____ the railway station is 2 kms.",
+        "op":["over","from","on","to"],
+        "ans":1,
+        "category":"articles and prepositions"
+    }
+
+]

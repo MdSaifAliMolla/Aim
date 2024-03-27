@@ -1,0 +1,31 @@
+[
+    
+    {
+    "q":"আমার নাম কী?",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":2,
+    "category":"a"
+   },
+
+   {
+    "q":"what is your name?i am Walter White Yo!I am the one who knocks.",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "category":"b"
+   },
+
+   {
+    "q":"what is his name?",
+    "op":[
+    "saif ","kaif","asif","syed"
+    ],
+    "ans":0,
+    "category":"a"
+   }
+
+
+]

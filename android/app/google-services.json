@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760357776543",
+    "project_id": "iota-f0f8a",
+    "storage_bucket": "iota-f0f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760357776543:android:78ae70a09acb1ce1ba06aa",
+        "android_client_info": {
+          "package_name": "com.example.iota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Ec4JpUx1Mj5FN5kzCFg1NaltMVx7E7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
