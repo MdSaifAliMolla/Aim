@@ -1,6 +1,7 @@
-# iota
+# Aim - An educational app 
 
-A new Flutter project.
+Aim aspires to be an all-in-one resource platform for various govt. exam of west bengal.
+It offers subjectwise,topicwise question bank for practice as well as online mock test facility.
 
 ## Getting Started
 
