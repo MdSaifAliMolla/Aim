@@ -1,7 +1,6 @@
 # Aim - An educational app 
 
-Aim aspires to be an all-in-one resource platform for various govt. exam of west bengal.
-It offers subjectwise,topicwise question bank for practice as well as online mock test facility.
+Aim is an edtech platform that offers subjectwise,topicwise question bank for practice as well as online mock test facility.
 
 ## Sneak-Peak
 
